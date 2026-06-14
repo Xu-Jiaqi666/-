@@ -71,5 +71,5 @@
 邮箱：202305800134@smail.xtu.edu.cn
 
 GitHub：https://github.com/Xu-Jiaqi666/-DRO-CvaR-dynamic-portfolio-optimization
-⚠️ 声明
+## ⚠️ 声明
 本项目为 2025 年湖南省大学生创新创业训练计划项目（省级），已完成结题论文初稿。代码仅供学术交流使用，不构成投资建议。
